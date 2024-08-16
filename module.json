@@ -1,0 +1,28 @@
+{
+  "id": "ac2d20JP",
+  "title": "アハトゥング！クトゥルフ日本語化MOD",
+  "description": "FoundryVTTのシステムに日本語を追加します。",
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "dreamfv"
+    }
+  ],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "ja",
+      "name": "日本語",
+      "path": "ja.json"
+    }
+  ],
+  "url": "https://github.com/dreamfv/ac2d20JP",
+  "manifest": "https://raw.githubusercontent.com/dreamfv/ac2d20JP/main/module.json",
+  "download": "https://github.com/dreamfv/ac2d20JP/archive/refs/heads/main.zip"
+}
